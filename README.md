@@ -3,52 +3,160 @@
 [Webfaqja bazë](https://themeforest.unitedthemes.com/wpversions/brooklyn/demo20/)
 
 ### Assigment 1
-- Kërkesat e përgjithshme (0%):
-[❌] You need to respect the design and palette usage of design/theme
-[❌] Navbar
-[❌] Footer
+<table><thead>
+  <tr>
+    <th colspan="2">Kërkesa</th>
+    <th colspan="2">Statusi</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Kërkesat e përgjithshme</td>
+    <td>Respect the design and palette of theme</td>
+    <td>❌</td>
+    <td rowspan="3">33/100</td>
+  </tr>
+  <tr>
+    <td>Navbar</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>Foooter</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td rowspan="7">Homepage</td>
+    <td>Navbar</td>
+    <td>✅</td>
+    <td rowspan="7">28/100</td>
+  </tr>
+  <tr>
+    <td>Header</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>About us</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Product listing</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Team/Services listing</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Contact/Newsletter</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Footer</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td rowspan="4">About Us Page</td>
+    <td>Header</td>
+    <td>❌</td>
+    <td rowspan="4">0/100</td>
+  </tr>
+  <tr>
+    <td>About us</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Team/Services listing</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Contact/Newsletter</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Contact Page</td>
+    <td>Contact form (min. 5 different inputs)</td>
+    <td>❌</td>
+    <td rowspan="4">0/100</td>
+  </tr>
+  <tr>
+    <td>Company detalis</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Team/Services listing</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Contact/Newsletter</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Products Listing Page</td>
+    <td>Products Listing Page</td>
+    <td>❌</td>
+    <td rowspan="5">0/100</td>
+  </tr>
+  <tr>
+    <td>Search bar (design only, optional)</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Pagination (design only, optional)</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Products listing</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Contact/Newsletter</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Product Page</td>
+    <td>Product image</td>
+    <td>❌</td>
+    <td rowspan="4">0/100</td>
+  </tr>
+  <tr>
+    <td>Product deatils</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Products listing</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Contact/Newsletter</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Team/Services Page</td>
+    <td>Team/Services listing</td>
+    <td>❌</td>
+    <td rowspan="2">0/100</td>
+  </tr>
+  <tr>
+    <td>Contact/Newsletter</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Team Member/Services Page</td>
+    <td>Team/Service image</td>
+    <td>❌</td>
+    <td rowspan="4">0/100</td>
+  </tr>
+  <tr>
+    <td>Team/Service details</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Team/Service listing</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Contact/Newsletter</td>
+    <td>❌</td>
+  </tr>
+</tbody></table>
 
-- Homepage (28%):
-[✅] Navbar
-[✅] Header
-[❌] About us
-[❌] Product listing
-[❌] Team/Services listing
-[❌] Contact/Newsletter
-[❌] Footer
-
-- About Us Page (0%):
-[❌] Header
-[❌] About us
-[❌] Team/Services listing
-[❌] Contact/Newsletter
-
-- Contact Page (0%):
-[❌] Contact form (min. 5 different inputs)
-[❌] Company details
-[❌] Team/Services listing
-[❌] Contact/Newsletter
-
-- Products Listing Page (0%):
-[❌] Search bar (design only)
-[❌] Pagination (optional)
-[❌] Products listing
-[❌] Contact/Newsletter
-
-- Product Page (0%):
-[❌] Product Image
-[❌] Product Details
-[❌] Products listing
-[❌] Contact/Newsletter
-
-- Team/Services Page  (0%):
-[❌] Team/Services listing
-[❌] Contact/Newsletter
-
-- Team Member/Service Page (0%):
-[❌] Team/Service image
-[❌] Team/Service details
-[❌] Team/Services listing
-[❌] Contact/Newsletter
-
-> As of 26 May
+> Përditësimi i fundit: 27 Maj - 15:00 
